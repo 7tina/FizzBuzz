@@ -4,7 +4,7 @@ package lab1;
  * Solve the lab1.FizzBuzz challenge.
  */
 class FizzBuzz {
-//hello
+
     public static void main(String[] args) {
         int i = 1;
         while (i < 100) {
